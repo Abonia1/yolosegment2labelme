@@ -12,9 +12,8 @@
 [![PyPI](https://img.shields.io/pypi/v/yolosegment2labelme)](https://pypi.org/project/yolosegment2labelme/)
 [![license](https://img.shields.io/github/license/abonia1/yolosegment2labelme.svg)](https://github.com/Abonia1/yolosegment2labelme/blob/main/LICENSE)
 [![open issues](https://isitmaintained.com/badge/open/abonia1/yolosegment2labelme.svg)](https://github.com/abonia1/yolosegment2labelme/issues)
-[![Pypi Downloads](https://pepy.tech/badge/anylabeling)](https://pypi.org/project/yolosegment2labelme/)
 [![Article](https://img.shields.io/badge/Read-Documentation-green)](https://abonia1.github.io/)
-[![Follow](https://img.shields.io/badge/+Follow-abonia-blue)]([[https://www.linkedin.com/in/aboniasojasingarayar](https://linkedin.com/aboniasojaingarayar)](https://www.linkedin.com/in/aboniasojasingarayar))
+[![Follow](https://img.shields.io/badge/+Follow-abonia-blue)](https://www.linkedin.com/in/aboniasojasingarayar/)
 
 > ⭐ Follow [AboniaSojasingarayar](https://www.linkedin.com/in/aboniasojasingarayar) for project updates.
 
