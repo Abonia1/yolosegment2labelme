@@ -1,4 +1,6 @@
 
 /dist
-/build
+build/lib/yolosegment2labelme/
 .DS_Store
+.DS_Store?
+
