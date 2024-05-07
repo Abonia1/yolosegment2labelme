@@ -4,3 +4,4 @@ build/lib/yolosegment2labelme/
 .DS_Store
 .DS_Store?
 
+/yolosegment2labelme.egg-info
