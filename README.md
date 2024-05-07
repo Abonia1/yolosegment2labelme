@@ -51,14 +51,12 @@ or with custom yolo segmentation model
 yolosegment2labelme --model yolov8n-seg.pt --images /path/to/images --conf 0.3
 ```
 
-This command will process the images located in the specified directory (`/path/to/images`), using the YOLO model weights file `yolov8n-seg.pt`, and generate LabelMe JSON files with a confidence threshold of 0.3.
+This command will process the images located in the specified directory (`/path/to/images`), using the YOLO model weights file `yolov8n-seg.pt` and here you can add path/to/your/customYOLOModel, and generate LabelMe JSON files with a confidence threshold of your choice and here it is of 0.3.
 
-For more options and advanced usage, refer to the [documentation](https://github.com/Abonia1/yolosegment2labelme).
 
 ## Sample Images
 The table below displays sample images along with their corresponding annotations generated using yolosegment2labelme:
 
-## Sample Images
 
 | Sample Image 1                                      | Sample Image 2                                      |
 |-----------------------------------------------------|-----------------------------------------------------|
