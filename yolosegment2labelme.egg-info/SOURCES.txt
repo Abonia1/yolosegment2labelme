@@ -1,6 +1,7 @@
 LICENSE
 README.md
 pyproject.toml
+setup.cfg
 setup.py
 yolosegment2labelme/__init__.py
 yolosegment2labelme/polygon_saver.py

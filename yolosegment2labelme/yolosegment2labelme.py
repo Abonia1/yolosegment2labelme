@@ -1,5 +1,5 @@
 import argparse
-from polygon_saver import PolygonSaver
+from .polygon_saver import PolygonSaver
 from ultralytics import YOLO
 
 def main():
