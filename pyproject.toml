@@ -1,6 +1,6 @@
 [project]
 name = "yolosegment2labelme"
-version = "0.0.3"
+version = "0.0.4"
 authors = [
   { name="Abonia Sojasingarayar", email="aboniaa@gmail.com" },
 ]

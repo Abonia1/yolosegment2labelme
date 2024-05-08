@@ -20,7 +20,7 @@ setup(
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     url = 'https://github.com/Abonia1/yolosegment2labelme', 
-    download_url = 'https://github.com/Abonia1/yolosegment2labelme/archive/refs/tags/v2.0.zip',  
+    download_url = 'https://github.com/Abonia1/yolosegment2labelme/archive/refs/tags/v0.3.zip',  
     long_description=long_description,
     packages=find_packages(),
     install_requires=[
